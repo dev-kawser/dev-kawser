@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Kawser Ferdous Safi</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-kawser&label=Profile%20views&color=0e75b6&style=flat" alt="dev-kawser" /> </p>
 
