@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="1584px" src="https://i.ibb.co/7g8DGKq/Blue-Brown-White-Modern-Web-Developer-Linked-In-Banner.png"  />
+  <img height="280" src="https://i.ibb.co/7g8DGKq/Blue-Brown-White-Modern-Web-Developer-Linked-In-Banner.png"  />
 </div>
 
 ###
