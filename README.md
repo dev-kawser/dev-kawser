@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="280" src="https://i.ibb.co/kGbKWBS/Default-Create-an-eyecatching-banner-that-includes-the-name-Ka-3.jpg"  />
+  <img height="280" src="https://img.freepik.com/premium-vector/front-end-developer-typographic-header_277904-11487.jpg"  />
 </div>
 
 ###
