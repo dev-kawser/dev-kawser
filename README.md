@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="280" src="https://img.freepik.com/premium-vector/front-end-developer-typographic-header_277904-11487.jpg"  />
+  <img height="280" src="https://myweb2002.w3spaces.com/New-PNC-Animated-Banners.gif"  />
 </div>
 
 ###
