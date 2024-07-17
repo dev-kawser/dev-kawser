@@ -106,4 +106,8 @@
   <img src="https://github-profile-trophy.vercel.app?username=dev-kawser&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
+<div align="center">
+<img alt="snake eating my contributions" src="https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
 ###
