@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="280" src="https://myweb2002.w3spaces.com/New-PNC-Animated-Banners.gif"  />
+  <img height="280" src="https://i.ibb.co.com/fXGsjKF/kawser-web-banner.png"  />
 </div>
 
 ###
